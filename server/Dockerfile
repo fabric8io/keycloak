@@ -53,7 +53,7 @@ RUN mkdir $JBOSS_HOME/standalone/{data,log} && \
 
 USER jboss
 
-
+COPY fabric8 /opt/jboss/keycloak/themes/fabric8
 
 EXPOSE 8080
 
