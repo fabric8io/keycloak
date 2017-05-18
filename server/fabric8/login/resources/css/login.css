@@ -92,11 +92,11 @@ a#kc-current-locale-link::after {
 }
 
 #kc-logo-wrapper {
-    background-image: url("../img/fabric8_icon.png");
+    /*background-image: url("../img/fabric8_icon.png");
     background-repeat: no-repeat;
 
     height: 57px;
-    width: 125px;
+    width: 125px;*/
 }
 
 div.kc-logo-text {
